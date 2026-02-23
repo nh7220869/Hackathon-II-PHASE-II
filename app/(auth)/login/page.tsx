@@ -49,7 +49,7 @@ export default function LoginPage() {
             </h2>
             <div className="h-1 w-20 bg-white mx-auto rounded-full mb-4"></div>
             <p className="text-center text-base text-gray-400 animate-fade-in" style={{ animationDelay: '0.1s' }}>
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <Link href="/signup" className="font-bold text-white hover:text-gray-300 transition-colors duration-300 underline underline-offset-4">
                 Sign up
               </Link>
